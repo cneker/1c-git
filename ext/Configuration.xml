@@ -66,6 +66,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>Расш_ОсновнаяРоль</Role>
+			<ExchangePlan>ОбменСМобильнымУстройством</ExchangePlan>
 			<HTTPService>MobileExchange</HTTPService>
 		</ChildObjects>
 	</Configuration>
